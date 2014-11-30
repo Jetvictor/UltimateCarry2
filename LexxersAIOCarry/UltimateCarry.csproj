@@ -65,7 +65,6 @@
     <Compile Include="Gangplank.cs" />
     <Compile Include="Gnar.cs" />
     <Compile Include="HtmlColor.cs" />
-    <Compile Include="Karthus.cs" />
     <Compile Include="Khazix.cs" />
     <Compile Include="Lucian.cs" />
     <Compile Include="Lulu.cs" />
@@ -90,7 +89,6 @@
     <Compile Include="Swain.cs" />
     <Compile Include="Teemo.cs" />
     <Compile Include="Thresh.cs" />
-    <Compile Include="Helper.cs" />
     <Compile Include="Tristana.cs" />
     <Compile Include="UcTargetSelector.cs" />
     <Compile Include="Xerath.cs" />
