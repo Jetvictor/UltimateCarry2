@@ -56,10 +56,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Activator.cs" />
-    <Compile Include="Ahri.cs" />
     <Compile Include="AutoBushRevealer.cs" />
     <Compile Include="AutoUpdater.cs" />
-    <Compile Include="BaseUlt.cs" />
     <Compile Include="Champion.cs" />
     <Compile Include="Chat.cs" />
     <Compile Include="Elise.cs" />
