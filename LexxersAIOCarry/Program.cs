@@ -9,8 +9,7 @@ namespace UltimateCarry
 		public const int LocalVersion = 68;
 		public static Champion Champion;
 		public static Menu Menu;
-		public static Orbwalking.Orbwalker Orbwalker;
-        public static Helper Helper;
+		public static Orbwalking.Orbwalker Orbwalker
 
 		// ReSharper disable once UnusedParameter.Local
 		private static void Main(string[] args)
